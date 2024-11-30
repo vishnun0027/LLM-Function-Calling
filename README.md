@@ -1,6 +1,7 @@
 # Function Calling with Llama-3.2-3B via Ollama
 
 This setup enables a chat-based assistant powered by the Llama-3.2-3B model through Ollama, allowing the model to perform specific tasks(Function Calling) like fetching weather,  or performing calculations by calling dedicated functions 
+![My Project Logo](img/Diagram.png)
 
 ## How to set up and run the system
 
