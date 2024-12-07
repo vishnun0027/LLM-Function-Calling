@@ -1,6 +1,8 @@
 # Function Calling with Llama-3.2-3B via Ollama
+LLM function calling is the secret sauce that lets AI seamlessly connect with external systems to fetch data and perform tasks.
 
 This setup enables a chat-based assistant powered by the Llama-3.2-3B model through Ollama, allowing the model to perform specific tasks(Function Calling) like fetching weather,  or performing calculations by calling dedicated functions 
+
 ![My Project Logo](img/Diagram.png)
 
 ## How to set up and run the system
